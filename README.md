@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning MySQL, Docker and Linux
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a bachelor degree in Dance
+- ⚡ Fun fact: I have a bachelor's degree in Dance
 
 ## Top Languages: 
 <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
