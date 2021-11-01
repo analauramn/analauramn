@@ -1,6 +1,6 @@
 ### Hi there, I'm Ana Laura <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
 <!--
 **analauramn/analauramn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
