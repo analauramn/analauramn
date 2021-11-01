@@ -18,12 +18,13 @@
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "https://www.json.org/json-en.html"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <br>
+<code><a href = "https://www.json.org/json-en.html"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img width="60" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<br>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 
