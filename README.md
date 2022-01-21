@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently studying Full Stack Development at Resilia Educação
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a Bachelor's degree in Dance
